@@ -1,0 +1,6 @@
+# BNB Chain
+
+
+
+<table data-header-hidden><thead><tr><th width="174">TOKEN</th><th width="434">SMART CONTRACT</th></tr></thead><tbody><tr><td><strong>TOKEN</strong></td><td><strong>SMART CONTRACT</strong></td></tr><tr><td>BNB</td><td>Native</td></tr><tr><td>ETH</td><td>0x2170Ed0880ac9A755fd29B2688956BD959F933F8</td></tr><tr><td>WBNB</td><td>0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c</td></tr><tr><td>ARB</td><td>0xa050FFb3eEb8200eEB7F61ce34FF644420FD3522</td></tr><tr><td>USDT</td><td>0x55d398326f99059fF775485246999027B3197955</td></tr><tr><td>USDC</td><td>0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d</td></tr><tr><td>TON</td><td>0x76A797A59Ba2C17726896976B7B3747BfD1d220f</td></tr><tr><td>TRX</td><td>0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3</td></tr><tr><td>ZUKI</td><td>0xE81257d932280AE440B17AFc5f07C8A110D21432</td></tr><tr><td>CAKE-LP</td><td>0x93Fc9986DA7CEcC8479F951fF918D95a7e80A161</td></tr><tr><td>ZUKI VERSE</td><td>0x2F123CA42F3825ceCB0293fa044292D24f8Cbb51</td></tr><tr><td>CAKE-LP V2</td><td>0x5bB2E48f5CD7Fc5812fF2BE606bd6353e0CB0c92</td></tr><tr><td>GPTC</td><td>0xe858b1995656c7b33cfabe9f165823e9cb712e47</td></tr><tr><td>CAKE-LP GPTC</td><td>0x220F67C11B284B099427eBa75039e46f1229986A</td></tr></tbody></table>
+
