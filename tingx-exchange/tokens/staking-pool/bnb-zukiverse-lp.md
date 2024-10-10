@@ -14,7 +14,7 @@ _**\*Pool Name**_
 
 * Total stake pool: 11,900 Cake LP
 * Total reward pool: 60,000 Zukiverse
-* 36%/year
+* APR: 36%/year
 * Min stake: 10 Cake LP
 * Max stake: 1,000 CakeLP
 * Lock term: 0 day
@@ -23,7 +23,7 @@ _**\*Pool Name**_
 
 * Total stake pool: 3,000 Cake LP
 * Total reward pool: 36,000 Zukiverse
-* 36%/year
+* APR: 36%/year
 * Min stake: 10 Cake LP
 * Max stake: 1,000 CakeLP
 * Lock term: 120 days
