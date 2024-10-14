@@ -8,4 +8,4 @@ description: One-way swap (temporarily suspended)
 | -------------- | ----------- |
 | Currency Quote | Zuki Point  |
 | Min Swap       | 0           |
-| Max Swap       | 100000      |
+| Max Swap       | 100,000     |

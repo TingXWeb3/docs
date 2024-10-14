@@ -10,4 +10,4 @@ description: One-way swap
 | -------------- | ---------- |
 | Currency Quote | Zukiverse  |
 | Min Swap       | 0          |
-| Max Swap       | 100000     |
+| Max Swap       | 100,000    |
