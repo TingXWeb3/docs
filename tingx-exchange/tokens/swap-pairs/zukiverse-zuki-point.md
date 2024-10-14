@@ -1,10 +1,8 @@
 ---
-description: One-way swap
+description: One-way swap (temporarily suspended)
 ---
 
 # Zukiverse - Zuki Point
-
-👉 Link: [https://tingx.io/wallet/convert](https://tingx.io/wallet/convert)
 
 | Currency Base  | Zukiverse  |
 | -------------- | ---------- |
