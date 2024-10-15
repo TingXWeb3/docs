@@ -62,3 +62,4 @@
 * [Privacy](privacy.md)
 * [User Agreement](user-agreement.md)
 * [Grant Funding](grant-funding.md)
+* [Contact](contact.md)
