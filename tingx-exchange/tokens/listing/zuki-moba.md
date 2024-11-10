@@ -6,7 +6,7 @@ description: '📄 Whitepaper: https://docs.zukimoba.com'
 
 ✅ **Basic information**
 
-<table><thead><tr><th width="145">Title</th><th>Detail</th></tr></thead><tbody><tr><td>Fullname</td><td>Zuki Moba</td></tr><tr><td>Symbol</td><td>ZUKI</td></tr><tr><td>Network</td><td>Binance Smart chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Total Supply</td><td>1,000,000,000 ZUKI</td></tr><tr><td>Contract</td><td>0x2F123CA42F3825ceCB0293fa044292D24f8Cbb51</td></tr></tbody></table>
+<table><thead><tr><th width="145">Title</th><th>Detail</th></tr></thead><tbody><tr><td>Fullname</td><td>Zuki Moba</td></tr><tr><td>Symbol</td><td>ZUKI</td></tr><tr><td>Network</td><td>Binance Smart chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Total Supply</td><td>1,000,000,000 ZUKI</td></tr><tr><td>Contract</td><td>0xe81257d932280ae440b17afc5f07c8a110d21432</td></tr></tbody></table>
 
 ✅ **Allocation**
 
