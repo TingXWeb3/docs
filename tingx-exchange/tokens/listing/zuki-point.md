@@ -1,5 +1,5 @@
 ---
-description: '📄 Whitepaper: https://zuki-point.gitbook.io'
+description: '📄  Document: https://zuki-point.gitbook.io'
 ---
 
 # Zuki Point

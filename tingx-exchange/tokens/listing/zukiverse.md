@@ -1,5 +1,5 @@
 ---
-description: '📄 Whitepaper: https://zukiverse.gitbook.io'
+description: '📄  Document: https://zukiverse.gitbook.io'
 ---
 
 # Zukiverse

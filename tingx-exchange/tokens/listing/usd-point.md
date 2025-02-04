@@ -1,5 +1,5 @@
 ---
-description: '📄 Whitepaper: https://usdpoint.gitbook.io'
+description: '📄  Document: https://usdpoint.gitbook.io'
 ---
 
 # USD Point

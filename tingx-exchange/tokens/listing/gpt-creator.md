@@ -1,5 +1,5 @@
 ---
-description: '📄 Whitepaper: https://gpt-creator.gitbook.io'
+description: '📄  Document: https://gpt-creator.gitbook.io'
 ---
 
 # GPT Creator

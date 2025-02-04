@@ -1,5 +1,5 @@
 ---
-description: '📄 Whitepaper: https://usdreward.gitbook.io'
+description: '📄  Document: https://usdreward.gitbook.io'
 ---
 
 # USD Reward

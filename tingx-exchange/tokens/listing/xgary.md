@@ -1,5 +1,5 @@
 ---
-description: '📄 Whitepaper: https://xgary.gitbook.io'
+description: '📄  Document: https://xgary.gitbook.io'
 ---
 
 # XGary

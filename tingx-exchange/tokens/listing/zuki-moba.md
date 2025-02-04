@@ -1,5 +1,5 @@
 ---
-description: '📄 Whitepaper: https://docs.zukimoba.com'
+description: '📄  Document: https://docs.zukimoba.com'
 ---
 
 # Zuki Moba
