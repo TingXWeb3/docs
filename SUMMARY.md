@@ -38,7 +38,7 @@
     * [Trading pairs](tingx-exchange/tokens/trading-pairs/README.md)
       * [ZUKI/USDT](tingx-exchange/tokens/trading-pairs/zuki-usdt.md)
       * [XGary/USDT](tingx-exchange/tokens/trading-pairs/xgary-usdt.md)
-      * [Copy of XGary/USDT](tingx-exchange/tokens/trading-pairs/copy-of-xgary-usdt.md)
+      * [TCapy/USDT](tingx-exchange/tokens/trading-pairs/tcapy-usdt.md)
     * [Staking Pool](tingx-exchange/tokens/staking-pool/README.md)
       * [BNB-ZUKIMOBA LP](tingx-exchange/tokens/staking-pool/bnb-zukimoba-lp.md)
       * [ZUKI MOBA](tingx-exchange/tokens/staking-pool/zuki-moba.md)

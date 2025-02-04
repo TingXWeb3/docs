@@ -11,12 +11,12 @@ Our transparency commitment means that we keep you informed about how your data 
 We have implemented strong governance controls on data minimization, which ensure that all products and services offered by TingX- Web3 One App only collect user data with specified purposes. We demonstrate in our Privacy Notice the specific, legitimate business purposes of data collection at TingX- Web3 One App.
 
 \
-**• Accountability and Compliance**
+&#xNAN;**• Accountability and Compliance**
 
 We take our privacy responsibilities seriously. Our practices are in full compliance with applicable data protection laws and regulations around the globe. We conduct regular audits and continuously improve our processes to ensure we uphold the highest standards of data protection and privacy. Our program has received coveted security and privacy certifications in multiple jurisdictions where we operate.
 
 \
-**• Data Security**
+&#xNAN;**• Data Security**
 
 We prioritize your privacy and security, implementing robust measures to protect your data from loss, misuse, or unauthorized access, while strictly controlling access internally. Our advanced encryption and stringent protocols, including identity verification, maintain the confidentiality and integrity of your data.
 
