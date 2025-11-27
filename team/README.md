@@ -1,7 +1,5 @@
 # Team
 
-<figure><img src="../.gitbook/assets/Johnny Hoang.png" alt="" width="188"><figcaption><p>CEO - JOHNNY HOANG</p></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/Jocasta Dang.png" alt="" width="188"><figcaption><p>CMO - JOSCASTA DANG</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Nhung Nguyen.png" alt="" width="188"><figcaption><p>CFO - NHUNG NGUYEN</p></figcaption></figure>
