@@ -65,3 +65,4 @@
 * [User Agreement](user-agreement.md)
 * [Grant Funding](grant-funding.md)
 * [Contact](contact.md)
+* [TingX ceases operations in Vietnam](tingx-ceases-operations-in-vietnam.md)
